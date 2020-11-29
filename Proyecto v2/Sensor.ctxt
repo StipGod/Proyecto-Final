@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Sensor
+comment1.params=
+comment1.target=Sensor()
+comment2.params=cant\ a
+comment2.target=Sensor(int,\ boolean)
+comment3.params=e
+comment3.target=Sensor(int)
+comment4.params=
+comment4.target=int\ getEstado()
+comment5.params=e
+comment5.target=void\ setEstado(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=java.lang.String\ sensorLibre()
+comment8.params=
+comment8.target=java.lang.String\ sensoresEstado()
+numComments=9
